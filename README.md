@@ -21,4 +21,5 @@ Our project delves into the impact of COVID-19 on food demand in the USA. We sta
 ## Files:
 - 2017_estimation_and_nutrition.ipynb with half of our project code (on 2017 data). 
 - 2021_estimation_and_nutrition.ipynb with the other half of our project code (on 2021 data). 
+- comparison_2017_2021.ipynb contains plots where we compare 2017 and 2021. 
 - data folder contains data used in our demand estimation and nutrition mappings. 
